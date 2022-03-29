@@ -1,0 +1,24 @@
+/* .card {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  justify-content: center;
+  align-items: center;
+} */
+.img {
+  margin: 0 auto;
+}
+.a {
+  color: white;
+  background: rgb(68, 172, 59);
+  padding: 10px 30px;
+  margin-top: 25px;
+  display: block;
+  font-size: 18px;
+}
+.a1 {
+  color: white;
+  margin-top: 20px;
+  display: block;
+  padding: 5px;
+  background-color: rgb(154, 155, 194);
+}
